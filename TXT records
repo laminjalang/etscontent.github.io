@@ -1,2 +1,1 @@
-etscontent.tech   v=spf1 redirect=_spf.mailhostbox.com 86400
-20220831._domainkey.etscontent.tech  v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC0EonVQ+F+59Y2gIzaRb3St/h7a74Ma1RSyFsTPsIgTxagH89iVkKwcVlLw1R1rPid/XidwTJ9Nse4A6iPFQwdiTp6qNM2anWhBJ0cwL2KCAQbG/kGSa8JxLWXtam0HQcnSFaSnknA9dHwkcFZKcbAcw2oJ6ygDk8mSCdHYY5oQQIDAQAB 86400
+etsprimeconsulting.com   _github-pages-challenge-laminjalang.etsprimeconsulting.com.etsprimeconsulting.com dbbb02fea3a21506d8e819978097a4
